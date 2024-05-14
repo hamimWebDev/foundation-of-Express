@@ -13,3 +13,4 @@ myEmitter.on("Birthday", (gift) => {
 });
 
 myEmitter.emit("Birthday", "bike");
+
